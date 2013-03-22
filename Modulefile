@@ -9,4 +9,4 @@ project_page 'http://github.com/puppetlabs/puppetlabs-rabbitmq'
 
 ## Add dependencies, if any:
 dependency 'puppetlabs/stdlib', '2.2.1'
-#dependency 'puppetlabs/apt', '>= 0.0.3'
+dependency 'puppetlabs/apt', '1.1.0'
